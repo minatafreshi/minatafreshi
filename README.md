@@ -2,9 +2,6 @@
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=minatafreshi&hide=ruby,perl&hide_border=true" /> -->
 
 ## Github Summery
-
-<p align="center"><img alt="profile pic" width="195px" src="https://avatars1.githubusercontent.com/u/44928288?s=460&u=9ecf72eb5d9530b65e3ca8d6d9f1f72c0dd22f5c&v=4" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minatafreshi&label=Profile%20views&style=flat" alt="minatafreshi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minatafreshi" alt="minatafreshi" /></a> </p>

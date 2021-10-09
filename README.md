@@ -27,7 +27,7 @@
 #### ☕ Buy me a coffee!
 
 <a href="http://www.coffeete.ir/MinaTafreshi">
-       <img src="/home/lenovo/Desktop/Profile/img/qr.jpeg" style="width:260px;" />
+       <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
 </a>
 
 ### With BTC:

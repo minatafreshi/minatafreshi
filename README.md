@@ -1,13 +1,15 @@
 
+<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=minatafreshi&hide=ruby,perl&hide_border=true" /> -->
+
 ## Github Summery
 
 <p align="center"><img alt="profile pic" width="195px" src="https://avatars1.githubusercontent.com/u/44928288?s=460&u=9ecf72eb5d9530b65e3ca8d6d9f1f72c0dd22f5c&v=4" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rc-chuah&label=Profile%20views&style=flat" alt="rc-chuah" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=minatafreshi&label=Profile%20views&style=flat" alt="minatafreshi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rc-chuah" alt="rc-chuah" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minatafreshi" alt="minatafreshi" /></a> </p>
 
-<img alt="rc-chuah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=minatafreshi&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
+<img alt="mina's Github Stats" src="https://github-readme-stats.vercel.app/api?username=minatafreshi&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minatafreshi&theme=chartreuse-dark" alt="minatafreshi" /></p>
 </p>
 

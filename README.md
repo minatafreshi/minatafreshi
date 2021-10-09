@@ -27,8 +27,12 @@
 #### ☕ Buy me a coffee!
 
 ### With BTC:
+- 
+lightning:lnbc18160n1pskrq4epp5wusawur2fyyamqmxzx36la6v872l60z6fgmqrz5av6t7vsyp5wdsdpqgf6hjgrpyp3k7enxv4jjqen0wgsx6efpcqzpgxqyz5vqsp5h752hzlh2swkuq5mxp0wg4erdr8j473vvlmumv9mktky3xf6vqts9qyyssq68wsew2gunkvv4zvlw0gfdzskx9064gxtrpc0eexfd6dytjkj3ynyreygtjwwg0zcwfmcw4265g92ne6p8gqw3227fm3qecqyt0twegqaqt8z2
 
-- lightning:lnbc18160n1pskrq4epp5wusawur2fyyamqmxzx36la6v872l60z6fgmqrz5av6t7vsyp5wdsdpqgf6hjgrpyp3k7enxv4jjqen0wgsx6efpcqzpgxqyz5vqsp5h752hzlh2swkuq5mxp0wg4erdr8j473vvlmumv9mktky3xf6vqts9qyyssq68wsew2gunkvv4zvlw0gfdzskx9064gxtrpc0eexfd6dytjkj3ynyreygtjwwg0zcwfmcw4265g92ne6p8gqw3227fm3qecqyt0twegqaqt8z2
+<a href="http://www.coffeete.ir/MinaTafreshi">
+       <img src="/home/lenovo/Desktop/Profile/img/qr.jpeg" style="width:260px;" />
+</a>
 
 
 <p align="center">

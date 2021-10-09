@@ -26,9 +26,11 @@
 
 #### ☕ Buy me a coffee!
 
-<a href="http://www.coffeete.ir/MinaTafreshi">
-       <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
-</a>
+### With BTC:
+
+<img src="/home/lenovo/Desktop/Profile/img/qr.jpeg" style="width:260px;" />
+
+- lightning:lnbc18160n1pskrq4epp5wusawur2fyyamqmxzx36la6v872l60z6fgmqrz5av6t7vsyp5wdsdpqgf6hjgrpyp3k7enxv4jjqen0wgsx6efpcqzpgxqyz5vqsp5h752hzlh2swkuq5mxp0wg4erdr8j473vvlmumv9mktky3xf6vqts9qyyssq68wsew2gunkvv4zvlw0gfdzskx9064gxtrpc0eexfd6dytjkj3ynyreygtjwwg0zcwfmcw4265g92ne6p8gqw3227fm3qecqyt0twegqaqt8z2
 
 
 <p align="center">
